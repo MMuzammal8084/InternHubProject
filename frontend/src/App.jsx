@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Login from './Pages/Login';
-import MainLayout from './layouts/MainLayout';
+import MainLayout from './Layouts/MainLayout';
 import Dashboard from './Pages/Dashboard';
 import Candidate from './Pages/candidate'
 import Internship from './Pages/internship';

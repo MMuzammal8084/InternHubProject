@@ -1,0 +1,126 @@
+export const candidates = [
+  {
+    id: 1,
+    name: 'Ayesha Khan',
+    email: 'ayesha.khan@example.com',
+    internship: 'Frontend Developer',
+    status: 'Pending',
+  },
+  {
+    id: 2,
+    name: 'Ali Raza',
+    email: 'ali.raza@example.com',
+    internship: 'UI/UX Designer',
+    status: 'Approved',
+  },
+  {
+    id: 3,
+    name: 'Sara Naveed',
+    email: 'sara.naveed@example.com',
+    internship: 'Backend Developer',
+    status: 'Rejected',
+  },
+  {
+    id: 4,
+    name: 'Hamza Tariq',
+    email: 'hamza.tariq@example.com',
+    internship: 'Data Analyst',
+    status: 'Pending',
+  },
+  {
+    id: 5,
+    name: 'Fatima Ahmed',
+    email: 'fatima.ahmed@example.com',
+    internship: 'Digital Marketing',
+    status: 'Approved',
+  },
+  {
+    id: 6,
+    name: 'Zain Ali',
+    email: 'zain.ali@example.com',
+    internship: 'Mobile App Developer',
+    status: 'Rejected',
+  },
+  {
+    id: 7,
+    name: 'Mehwish Aslam',
+    email: 'mehwish.aslam@example.com',
+    internship: 'Frontend Developer',
+    status: 'Pending',
+  },
+  {
+    id: 8,
+    name: 'Umer Saeed',
+    email: 'umer.saeed@example.com',
+    internship: 'Project Management',
+    status: 'Approved',
+  },
+  {
+    id: 9,
+    name: 'Hira Iqbal',
+    email: 'hira.iqbal@example.com',
+    internship: 'Quality Assurance',
+    status: 'Pending',
+  },
+  {
+    id: 10,
+    name: 'Bilal Hassan',
+    email: 'bilal.hassan@example.com',
+    internship: 'Backend Developer',
+    status: 'Rejected',
+  },
+];
+
+export const internships = [
+  'Frontend Developer',
+  'Backend Developer',
+  'UI/UX Designer',
+  'Mobile App Developer',
+  'Data Analyst',
+  'Digital Marketing',
+  'Project Management',
+  'Quality Assurance'
+];
+
+export const dummyInternships = [
+  {
+    id: 1,
+    title: 'Frontend Developer Intern',
+    department: 'Engineering',
+    duration: 8,
+    stipend: 'PKR 15,000',
+    status: 'Open',
+  },
+  {
+    id: 2,
+    title: 'Data Analyst Intern',
+    department: 'Data Science',
+    duration: 6,
+    stipend: 'PKR 10,000',
+    status: 'Closed',
+  },
+  {
+    id: 3,
+    title: 'Marketing Intern',
+    department: 'Marketing',
+    duration: 4,
+    stipend: 'Unpaid',
+    status: 'Open',
+  },
+  {
+    id: 4,
+    title: 'Mobile App Developer',
+    department: 'Engineering',
+    duration: 10,
+    stipend: 'PKR 20,000',
+    status: 'Open',
+  },
+  {
+    id: 5,
+    title: 'HR Intern',
+    department: 'Human Resources',
+    duration: 5,
+    stipend: 'PKR 8,000',
+    status: 'Closed',
+  },
+];

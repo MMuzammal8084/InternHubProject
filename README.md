@@ -1,2 +1,2 @@
-# InternHubProject
-Reactjs Intern Management Project
+# InternHub
+React Project For Inernee Managemenet
